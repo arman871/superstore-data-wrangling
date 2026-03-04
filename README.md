@@ -1,7 +1,10 @@
-# Superstore Data Wrangling Project
+# Superstore Data Wrangling
 
 ## Objective
 Clean and prepare raw sales data for analysis.
+
+## Dataset
+Superstore sales dataset containing order, customer, and product information.
 
 ## Steps Performed
 - Data exploration
@@ -10,12 +13,12 @@ Clean and prepare raw sales data for analysis.
 - Converting date formats
 - Feature engineering
 
-## New Features Created
+## New Features
 - Delivery Days
 - Profit Margin
 - Sales Category
 
 ## Tools Used
-- Python
-- Pandas
-- Google Colab
+Python
+Pandas
+Google Colab
